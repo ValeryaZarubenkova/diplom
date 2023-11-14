@@ -11,3 +11,4 @@
 
 
 Примечание: текст описания репозитория взят из моей научной статьи.
+!(https://i2.wp.com/miro.medium.com/0*Nzsf0QeEdcf_rQuK.png)
